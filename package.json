@@ -1,0 +1,25 @@
+{
+  "name": "hostname-generator",
+  "version": "1.0.0",
+  "description": "Gerador de hostnames inteligente com múltiplos padrões e validação",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "serve": "vite preview --port 3000"
+  },
+  "keywords": [
+    "hostname",
+    "generator",
+    "domain",
+    "url",
+    "naming"
+  ],
+  "author": "Seu Nome",
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "^5.0.0"
+  },
+  "dependencies": {}
+}
